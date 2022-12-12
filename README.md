@@ -1,7 +1,4 @@
-Для запуска проекта:
-- установить зависимости
-- сделать миграции
-- запустить команду python manage.py parse_start
+
 
 ## Описание проекта:
 Приложение собирает посление новости с Яндекса и созраняет их в админку, реализованную на Django Admin LTE3
@@ -40,3 +37,6 @@ python3 manage.py runserver
 ```
 python3 manage.py parse_start
 ```
+## Технологии:
+  - Django
+  - BeautifulSoup4
